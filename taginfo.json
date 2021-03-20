@@ -134,23 +134,86 @@
             "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_malediaper.png",
             "description": "POIs with this tag shown on map. Evaluated for 'baby friendliness' tab of POI pop-ups."
         },
-         {
+        {
+            "key": "diaper:fee",
+            "value": "no",
+            "object_types": ["node","way"],
+            "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_malediaper.png",
+            "description": "POIs with this tag shown on map. Evaluated for 'baby friendliness' tab of POI pop-ups."
+        },
+        {
             "key": "changing_table",
-            "value": ["yes", "no"],
+            "value": "yes",
+            "object_types": ["node","way"],
+            "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_diaper.png",
+            "description": "POIs with this tag shown on map (when not also having a value of 'no'). Evaluated for 'baby friendliness' tab of POI pop-ups."
+        },
+        {
+            "key": "changing_table",
+            "value": "no",
             "object_types": ["node","way"],
             "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_diaper.png",
             "description": "POIs with this tag shown on map (when not also having a value of 'no'). Evaluated for 'baby friendliness' tab of POI pop-ups."
         },
         {
             "key": "changing_table:location",
-            "value": ["wheelchair_toilet", "female_toilet", "male_toilet", "unisex_toilet", "dedicated_room", "room", "sales_area"],
+            "value": "wheelchair_toilet",
+            "object_types": ["node","way"],
+            "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_malediaper.png",
+            "description": "POIs with this tag shown on map. Evaluated for 'baby friendliness' tab of POI pop-ups."
+        },
+        {
+            "key": "changing_table:location",
+            "value": "female_toilet",
+            "object_types": ["node","way"],
+            "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_malediaper.png",
+            "description": "POIs with this tag shown on map. Evaluated for 'baby friendliness' tab of POI pop-ups."
+        },
+        {
+            "key": "changing_table:location",
+            "value": "male_toilet",
+            "object_types": ["node","way"],
+            "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_malediaper.png",
+            "description": "POIs with this tag shown on map. Evaluated for 'baby friendliness' tab of POI pop-ups."
+        },
+        {
+            "key": "changing_table:location",
+            "value": "unisex_toilet",
+            "object_types": ["node","way"],
+            "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_malediaper.png",
+            "description": "POIs with this tag shown on map. Evaluated for 'baby friendliness' tab of POI pop-ups."
+        },
+        {
+            "key": "changing_table:location",
+            "value": "dedicated_room",
+            "object_types": ["node","way"],
+            "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_malediaper.png",
+            "description": "POIs with this tag shown on map. Evaluated for 'baby friendliness' tab of POI pop-ups."
+        },
+        {
+            "key": "changing_table:location",
+            "value": "room",
+            "object_types": ["node","way"],
+            "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_malediaper.png",
+            "description": "POIs with this tag shown on map. Evaluated for 'baby friendliness' tab of POI pop-ups."
+        },
+        {
+            "key": "changing_table:location",
+            "value": "sales_area",
             "object_types": ["node","way"],
             "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_malediaper.png",
             "description": "POIs with this tag shown on map. Evaluated for 'baby friendliness' tab of POI pop-ups."
         },
         {
             "key": "changing_table:fee",
-            "value": ["yes", "no"],
+            "value": "yes",
+            "object_types": ["node","way"],
+            "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_malediaper.png",
+            "description": "POIs with this tag shown on map. Evaluated for 'baby friendliness' tab of POI pop-ups."
+        },
+        {
+            "key": "changing_table:fee",
+            "value": "no",
             "object_types": ["node","way"],
             "icon_url": "https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo_icons/marker_malediaper.png",
             "description": "POIs with this tag shown on map. Evaluated for 'baby friendliness' tab of POI pop-ups."
