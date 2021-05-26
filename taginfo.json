@@ -4,11 +4,11 @@
     "project": {
         "name": "Babykarte",
         "description": "A map for parents of infants and toddlers.",
-        "project_url": "https://babykarte.github.io",
+        "project_url": "https://babykarte.openstreetmap.de/",
         "doc_url": "https://wiki.openstreetmap.org/wiki/Babykarte",
         "icon_url": "https://babykarte.github.io/favicon.ico",
         "contact_name": "Michael Brandtner",
-        "contact_email": "brandtner_michael@yahoo.de"
+        "contact_email": "m.brandtner@posteo.de"
     },
     "tags": [
         {
